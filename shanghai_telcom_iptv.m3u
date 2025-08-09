@@ -227,6 +227,8 @@ http://192.168.100.1:4022/udp/239.45.3.143:5140
 http://192.168.100.1:4022/udp/239.45.1.120:5140
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
 http://192.168.100.1:4022/udp/239.45.3.229:5140
+#EXTINF:-1,tvg-id="北京卫视4K" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
+http://192.168.100.1:4022/udp/239.45.1.109:5140
 #EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视
 http://192.168.100.1:4022/udp/239.45.1.117:5140
 #EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
